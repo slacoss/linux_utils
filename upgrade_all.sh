@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+#	upgrade_all.sh:	apt-get, gcloud and conda updates in one script
+#	author:	scott lacosse
+#
 echo "*"
 echo "**"
 echo "***"
