@@ -32,4 +32,4 @@ echo "****"
 echo "***"
 echo "**"
 echo "*"
-conda update --prefix /home/slacoss/anaconda2 anaconda
+conda update -y --prefix /home/slacoss/anaconda2 anaconda
