@@ -33,3 +33,13 @@ echo "***"
 echo "**"
 echo "*"
 conda update -y --prefix /home/slacoss/anaconda2 anaconda
+echo "*"
+echo "**"
+echo "***"
+echo "****"
+echo "***** google cloud python libraries update "
+echo "****"
+echo "***"
+echo "**"
+echo "*"
+pip install --upgrade gcloud google-api-python-client
